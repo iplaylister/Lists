@@ -55,3 +55,39 @@
 </info>
 
 ##############################################################################################################################
+
+<dir>
+<name>ALL HM's New Additions This Week</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/All%20New%20Additions%20This%20Week.xml</link>
+<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>HM This Week's Movies</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Movies.xml</link>
+<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>HM This Weeks Episodes</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Episodes.xml</link>
+<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>HM This Week's Comedy</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20%20Week's%20Comedy.xml</link>
+<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>HM This Week's Documentaries</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/This%20Week's%20Documentaries.xml</link>
+<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>HM Latest Episodes ON AIR</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Shows/Latest%20Shows.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Posters/latest.png</thumbnail>
+</dir>
