@@ -20,7 +20,7 @@
 
 <item>
 <title>BBC NEWS Filmon/title>
-<link>rtmp://mi1.gv.filmon.com:8086/live/27.high.stream</link>
+<link>rtmp://$OPT:rtmp-raw=rtmp://mi1.gv.filmon.com:8086/live/27.high.stream</link>
 </item>
 
 <item>
@@ -30,7 +30,7 @@
 
 <item>
 <title>animal planet hd/title>
-<link>rtmp://s01.webport.tv/promo//mtv</link>
+<link>rtmp://$OPT:rtmp-raw=rtmp://s01.webport.tv/promo//mtv</link>
 </item>
 
 
