@@ -10,6 +10,27 @@
 
 <item>
 <title>JSC Sport 2</title>
-<link>
-rtmp://$OPT:rtmp-raw=rtmp://www.teledunet.com:1935/teledunet/aljazeera_sport_2 swfUrl=http://www.teledunet.com/player.swf?id0=82703774796300&skin=bekle%2Fbekle.xml&channel=aljazeera_sport_2 pageUrl=http://www.teledunet.com/live=10live=1</link>
+<link>rtmp://$OPT:rtmp-raw=rtmp://www.teledunet.com:1935/teledunet/aljazeera_sport_2 swfUrl=http://www.teledunet.com/player.swf?id0=82703774796300&skin=bekle%2Fbekle.xml&channel=aljazeera_sport_2 pageUrl=http://www.teledunet.com/live=10live=1</link>
 </item>
+
+<item>
+<title>Iraqiya Sport</title>
+<link>mms://212.7.196.74/sport</link>
+</item>
+
+<item>
+<title>BBC NEWS Filmon/title>
+<link>rtmp://mi1.gv.filmon.com:8086/live/27.high.stream</link>
+</item>
+
+<item>
+<title>Ifilm</title>
+<link>rtmp://telewebion.com/live/ifilm-udp-500k</link>
+</item>
+
+<item>
+<title>animal planet hd/title>
+<link>rtmp://s01.webport.tv/promo//mtv</link>
+</item>
+
+
