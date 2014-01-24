@@ -1,7 +1,6 @@
 <name>HackerMils Stash</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Directory/HackerMil_Directory.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/hackermilx-2_zps951b20f8.png</thumbnail>
-<mode>235</mode>
 
 <name>HackerMil - Fresh Out</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Freshout.xml</link>
@@ -10,18 +9,16 @@
 <name>HackerMil - All Theatre Releases</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/Theatre/Types/ALL.xml</link>
 <thumbnail>http://farm4.staticflickr.com/3775/10217500445_df0cae6a02_o.png</thumbnail>
-</dir>
+
 
 <name>One242415 (New Mashup Source)</name>
 <link>https://raw2.github.com/mash2k3/One242415/master/One242415_Directory.xml</link>
 <thumbnail></thumbnail>
-</dir>
 
 <name>One242415 - Latest Releases</name>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/LatestRelease.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/Q3QiW6qooj/one24.256.jpg</thumbnail>
 <date>DAILY</date>
-
 
 <name>One242415 - IMDb Top 300  Highest Rated Movies</name>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/imdb300.xml</link>
@@ -31,7 +28,6 @@
 <name>TNPB</name>
 <link>https://raw.github.com/mash2k3/MashUpTNPB/master/TNPB_Directory.xml</link>
 <thumbnail>http://s20.postimg.org/jvq2l8xel/TNPB.png</thumbnail>
-<mode>235</mode>
 
 <name>TNPB - Hot 30</name>
 <link>https://github.com/mash2k3/MashUpTNPB/raw/master/Genre/top30.xml</link>
@@ -61,6 +57,16 @@
 <thumbnail>demon88</thumbnail>
 <mode>235</mode>
 
+
+<name>ALL HM's New Additions This Week</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/All%20New%20Additions%20This%20Week.xml</link>
+<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
+
+
+<name>HackerMils Stash</name>
+<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Directory/HackerMil_Directory.xml</link>
+<thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/hackermilx-2_zps951b20f8.png</thumbnail>
+
 #######################################################################################################################################
 <info>
 <message>If you don't want your XML's linked here, tell me, i'll delete it.</message>
@@ -72,8 +78,4 @@
 
 ##############################################################################################################################
 
-<dir>
-<name>ALL HM's New Additions This Week</name>
-<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Freshout/Directories/All%20New%20Additions%20This%20Week.xml</link>
-<thumbnail>http://farm6.staticflickr.com/5490/10217412684_f35c62838d_o.jpg</thumbnail>
-</dir>
+
