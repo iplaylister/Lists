@@ -17,7 +17,11 @@
 <link>https://raw.github.com/mash2k3/MashUpTNPB/master/Sky%20Movies.xml</link>
 <thumbnail></thumbnail>
 
-<name>(NEW...LIVE TV & RADIO STREAMS)</name>
+<name>Crusaders Live Streams</name>
+<link>https://raw.github.com/mash2k3/MashUpStreams/master/CrusadersDir.xml</link>
+<thumbnail></thumbnail>
+
+<name>One242415 LIVE TV & RADIO STREAMS</name>
 <link>https://raw2.github.com/mash2k3/One242415/master/Misc/liveconcert.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/YVjUfXSinE/LIVEINCONCERT_zps23f60c8b.jpg</thumbnail>
 <date>DAILY</date>
@@ -31,3 +35,8 @@
 <link>https://raw.github.com/mash2k3/MashSports/master/Mashsprt.xml</link>
 <thumbnail>mashsports</thumbnail>
 <mode>182</mode>
+
+
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
