@@ -36,6 +36,19 @@
 <thumbnail>mashsports</thumbnail>
 <mode>182</mode>
 
+<item>
+<title>Sky Premier HD NEW NAMING</title>
+<link>rtmp://s01.futubox.to:1935/live?lp=VE5QQiE6OnNhbHQ6OmY2NWFiY2Q3Y2YzNzlmZGQyNGRiZDUzY2ZkMzRmODJj playpath=z050323.stream?lp=VE5QQiE6OnNhbHQ6OmY2NWFiY2Q3Y2YzNzlmZGQyNGRiZDUzY2ZkMzRmODJj swfUrl=http://www.futubox.to/donottouch/fpv3.39.swf pageUrl=http://www.futubox.to/channels/Sky_Movies_Premiere_HD/livetv live=1
+</link>
+<thumbnail>http://www.futubox.to/system/icon_ds/302/original/sky_movies_premiere.png</thumbnail>
+</item>
+
+<item>
+<name>>Sky Premier HD OLD NAMING</name>
+<link>rtmp://s01.futubox.to:1935/live?lp=VE5QQiE6OnNhbHQ6OmY2NWFiY2Q3Y2YzNzlmZGQyNGRiZDUzY2ZkMzRmODJj playpath=z050323.stream?lp=VE5QQiE6OnNhbHQ6OmY2NWFiY2Q3Y2YzNzlmZGQyNGRiZDUzY2ZkMzRmODJj swfUrl=http://www.futubox.to/donottouch/fpv3.39.swf pageUrl=http://www.futubox.to/channels/Sky_Movies_Premiere_HD/livetv live=1
+</link>
+<thumbnail>http://www.futubox.to/system/icon_ds/302/original/sky_movies_premiere.png</thumbnail>
+</item>
 
 <name></name>
 <link></link>
