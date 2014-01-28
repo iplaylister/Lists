@@ -15,7 +15,7 @@
 
 <name>TNPB Sky Movies</name>
 <link>https://raw.github.com/mash2k3/MashUpTNPB/master/Sky%20Movies.xml</link>
-<thumbnail>http://pbs.twimg.com/profile_images/378800000400601758/9eae608ee50511ef000f55bd21156e6f_reasonably_small.jpeg</thumbnail>
+<thumbnail></thumbnail>
 
 <name>(NEW...LIVE TV & RADIO STREAMS)</name>
 <link>https://raw2.github.com/mash2k3/One242415/master/Misc/liveconcert.xml</link>
@@ -31,7 +31,3 @@
 <link>https://raw.github.com/mash2k3/MashSports/master/Mashsprt.xml</link>
 <thumbnail>mashsports</thumbnail>
 <mode>182</mode>
-
-
-
-
