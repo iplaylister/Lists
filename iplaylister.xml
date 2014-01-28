@@ -21,12 +21,12 @@
 <name>One242415 - Latest Releases</name>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/LatestRelease.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/Q3QiW6qooj/one24.256.jpg</thumbnail>
-<date>DAILY</date>
+
 
 <name>One242415 - IMDb Top 300  Highest Rated Movies</name>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/imdb300.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/k7RE1G2hbg/imdb.png</thumbnail>
-<date>DAILY</date>
+
 
 <name>TNPB</name>
 <link>https://raw.github.com/mash2k3/MashUpTNPB/master/TNPB_Directory.xml</link>
@@ -39,26 +39,29 @@
 <name>MorePower</name>
 <link>https://raw.github.com/mash2k3/MashUpMorePower/master/MorePower_Directory.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/u/35068738/icons/morepower.png</thumbnail>
-<mode>235</mode>
+
 
 <name>MorePower - Newest and Hottest Movie List</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/MainMovieList.xml</link>
-<thumbnail> </thumbnail>
-<date>12/11/2013</date>
+<thumbnail></thumbnail>
 
 <name>Staael 1982</name>
 <link>https://raw.github.com/mash2k3/Staael1982/master/Staael_Directory.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/u/35068738/icons/staael.png</thumbnail>
-<mode>235</mode>
+
 
 <name>Staael 1982 New releases</name>
 <link>https://raw.github.com/mash2k3/Staael1982/master/Latest%20releases.xml</link>
 <thumbnail>http://www.shacksign.com/estore/images/New%20Releases%20DVD%20Shop%20Display%20Neon%20Light%20Sign.JPG</thumbnail>
 
+<name>Demon88's List</name>
+<link>https://raw.github.com/mash2k3/demon88/master/Demon88_Directory.xml</link>
+<thumbnail></thumbnail>
+
 <name>Demon88 Movies</name>
 <link>https://raw.github.com/mash2k3/demon88/master/Demon88_Directory.xml</link>
 <thumbnail>demon88</thumbnail>
-<mode>235</mode>
+
 
 <name>mefroxlist</name>
 <link>https://raw.github.com/mefrox/mefroxlist/master/mefroxlist.xml</link>
@@ -66,17 +69,32 @@
 <name>mefroxlist Beta</name>
 <link>https://raw.github.com/mefrox/mefroxlist/master/mefroxlist_beta.xml</link>
 
-<name>LIVE STREAMS</name>
-<link>http://raw.github.com/iplaylister/Lists/master/live.xml</link>
-<mode>235</mode>
+<name>LIVE STREAMS -Iplaylister</name>
+<link>https://raw.github.com/iplaylister/Lists/master/live.xml</link>
+
+
+<name>Navi-X's Most Visited 24hrs [COLOR FF00FF00](NOW SUPPORTED!)[/COLOR]</name>
+<link>http://navixtreme.com/playlist/day.plx</link>
+<thumbnail></thumbnail>
+
+<name>Navi-X's Most Recent Updates [COLOR FF00FF00](NOW SUPPORTED!)[/COLOR]</name>
+<link>http://navixtreme.com/playlist/update.plx</link>
+<thumbnail></thumbnail>
+
+<name>live-tv-stream</name>
+<link>http://live-tv-stream.googlecode.com/svn/trunk/LiveTV.xml</link>
+<thumbnail></thumbnail>
 
 <name></name>
 <link></link>
-<mode></mode>
+<thumbnail></thumbnail>
 
 <name></name>
 <link></link>
-<mode></mode>
+<thumbnail></thumbnail>
+
+
+v
 
 #######################################################################################################################################
 #<info>
