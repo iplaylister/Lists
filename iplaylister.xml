@@ -90,8 +90,10 @@
 <link>http://live-tv-stream.googlecode.com/svn/trunk/LiveTV.xml</link>
 <thumbnail></thumbnail>
 
-<name></name>
-<link></link>
+
+
+<name>LIVE TV TESTS</name>
+<link>https://raw2.github.com/iplaylister/Lists/master/livetest.xml</link>
 <thumbnail></thumbnail>
 
 <name></name>
