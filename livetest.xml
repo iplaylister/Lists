@@ -1,13 +1,13 @@
 TEST ONLY 
 
 <item>
-<title> ITV 1 [COLOR lime]TEST[/COLOR] </title>
-<link>http://212.250.46.44:8085/udp/239.100.0.79:3301</link>     #WHEN YOU FIND CONTENT, MAKE ABSOLUTELY SURE YOU FIND THE DOWNLOAD LINK AND SHORTURL IT.  It should work.#
+<title> ITV 1 [COLOR lime]DOES NOT WORK[/COLOR]  </title>
+<link>http://212.250.46.44:8085/udp/239.100.0.79:3001</link>     #WHEN YOU FIND CONTENT, MAKE ABSOLUTELY SURE YOU FIND THE DOWNLOAD LINK AND SHORTURL IT.  It should work.#
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>BEIN11</title>
+<title>BEIN11 [COLOR lime]WORKS [/COLOR]  </title>
 <link>http://185.9.3.2:4048/udp/239.193.48.1:3301</link>     #WHEN YOU FIND CONTENT, MAKE ABSOLUTELY SURE YOU FIND THE DOWNLOAD LINK AND SHORTURL IT.  It should work.#
 <thumbnail></thumbnail>
 </item>
