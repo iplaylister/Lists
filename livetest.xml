@@ -1,14 +1,22 @@
 TEST ONLY 
 
 <item>
+<title> RTE 1 [COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.88:3001</link>
+<thumbnail>http://www.tvservices.ie/images/logo-rte1.gif</thumbnail>
+</item>
+
+
+
+<item>
 <title> ITV 1 [COLOR lime]DOES NOT WORK[/COLOR]  </title>
-<link>http://212.250.46.44:8085/udp/239.100.0.79:3301</link>     #WHEN YOU FIND CONTENT, MAKE ABSOLUTELY SURE YOU FIND THE DOWNLOAD LINK AND SHORTURL IT.  It should work.#
+<link>http://212.250.46.44:8085/udp/239.100.0.79:3301</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>beIN Sports 1[COLOR lime]WORKS [/COLOR]  </title>
-<link>http://185.9.3.2:4048/udp/239.193.48.25:3301</link>     #WHEN YOU FIND CONTENT, MAKE ABSOLUTELY SURE YOU FIND THE DOWNLOAD LINK AND SHORTURL IT.  It should work.#
+<link>http://185.9.3.2:4048/udp/239.193.48.25:3301</link>
 <thumbnail>http://2.bp.blogspot.com/-oqxpMj-7SX4/UfZ4Dt0P1DI/AAAAAAAAGHg/_-b5nKqdkeE/s320/bein-sport-1.png</thumbnail>
 </item>
 
