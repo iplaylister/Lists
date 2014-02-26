@@ -1,4 +1,22 @@
-TEST ONLY 
+##########################################################################################################
+
+									- XBMC iSTREAM PLAYLIST TOOLKIT -
+												By:@mefrox
+
+												
+##########################################################################################################
+											livetest.XML
+##########################################################################################################
+#START#
+#TITLE+BACKGROUND#
+<poster></poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+#SEPERATOR - DELETE IF YOU WISH#
+<info>
+<message> TEST ONLY</message>
+</info>
 
 <item>
 <title> RTE 1 [COLOR lime]to test[/COLOR]  </title>
@@ -6,7 +24,82 @@ TEST ONLY
 <thumbnail>http://www.tvservices.ie/images/logo-rte1.gif</thumbnail>
 </item>
 
+<item>
+<title> BBC 1 London?[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.82:3001</link>
+<thumbnail></thumbnail>
+</item>
 
+<item>
+<title> Channel Test 219[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.219:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 220[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.220:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 221[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.221:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 222[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.222:3001</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title> Channel Test 223[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.223:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 224[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.224:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 225[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.225:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 226[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.226:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 227[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.227:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 228[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.228:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 229[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.229:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 230[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.230:3001</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title> ITV 1 [COLOR lime]DOES NOT WORK[/COLOR]  </title>
@@ -116,18 +209,6 @@ TEST ONLY
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title> BBC1 [COLOR lime][/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.82:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> BBC 2 ?[COLOR lime]NOT SURE [/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.83:3001</link>
-<thumbnail></thumbnail>
-</item>
-
 
 <item>
 <title> ITV [COLOR lime]working[/COLOR]  </title>
@@ -144,6 +225,18 @@ TEST ONLY
 <item>
 <title> ITV4 [COLOR lime]working[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.81:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> ITV3 [COLOR lime]NOT SURE OF CHANNEL +1?[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.82:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Film4 +1 [COLOR lime]NOT SURE [/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.83:3001</link>
 <thumbnail></thumbnail>
 </item>
 
