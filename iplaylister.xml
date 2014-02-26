@@ -3,6 +3,10 @@
 <fanart>http://farm6.staticflickr.com/5460/10217454264_7eda59c6f3_o.png</fanart>
 #######################################################################################################################################
 
+<name>TV Channels</name>
+<link>https://raw.github.com/iplaylister/Lists/master/TVTests.xml</link>
+<thumbnail></thumbnail>
+
 <name>HackerMil</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Directory/HackerMil_Directory.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/hackermilx-2_zps951b20f8.png</thumbnail>
@@ -26,7 +30,6 @@
 <name>One242415 - Latest Releases</name>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/LatestRelease.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/Q3QiW6qooj/one24.256.jpg</thumbnail>
-
 
 <name>One242415 - IMDb Top 300  Highest Rated Movies</name>
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/imdb300.xml</link>
@@ -86,10 +89,6 @@
 <link>http://navixtreme.com/playlist/update.plx</link>
 <thumbnail></thumbnail>
 
-<name>TVTests</name>
-<link>https://raw.github.com/iplaylister/Lists/master/TVTests.xml</link>
-<thumbnail></thumbnail>
-
 
 <name>TV TEST LIST</name>
 <link>https://raw.github.com/iplaylister/Lists/master/livetestlist.xml</link>
@@ -98,9 +97,6 @@
 <name></name>
 <link></link>
 <thumbnail></thumbnail>
-
-
-
 
 #######################################################################################################################################
 #<info>
