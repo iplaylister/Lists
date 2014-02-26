@@ -4,20 +4,6 @@
 												By:@mefrox
 
 												
-##########################################################################################################
-											livetest.XML
-##########################################################################################################
-#START#
-#TITLE+BACKGROUND#
-<poster></poster>
-<thumbnail></thumbnail>
-<fanart></fanart>
-
-#SEPERATOR - DELETE IF YOU WISH#
-<info>
-<message></message>
-</info>
-
 <item>
 <title> RTE 1 [COLOR lime]to test[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.88:3001</link>
@@ -29,8 +15,6 @@
 <link>http://212.250.46.41:9987/udp/239.100.0.82:3001</link>
 <thumbnail></thumbnail>
 </item>
-
-
 
 <item>
 <title> ITV [COLOR lime]working[/COLOR]  </title>
