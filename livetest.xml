@@ -116,6 +116,18 @@ TEST ONLY
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title> BBC1 [COLOR lime][/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.82:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> BBC 2 ?[COLOR lime]NOT SURE [/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.83:3001</link>
+<thumbnail></thumbnail>
+</item>
+
 
 <item>
 <title> ITV [COLOR lime]working[/COLOR]  </title>
@@ -132,18 +144,6 @@ TEST ONLY
 <item>
 <title> ITV4 [COLOR lime]working[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.81:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> ITV3 [COLOR lime]NOT SURE OF CHANNEL +1?[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.82:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Film4 +1 [COLOR lime]NOT SURE [/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.83:3001</link>
 <thumbnail></thumbnail>
 </item>
 
