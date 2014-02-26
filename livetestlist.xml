@@ -15,7 +15,7 @@
 
 #SEPERATOR - DELETE IF YOU WISH#
 <info>
-<message> TEST ONLY</message>
+<message></message>
 </info>
 
 <item>
@@ -78,7 +78,7 @@
 </item>
 
 <item>
-<title> Channel Test 227[COLOR lime]to test[/COLOR]  </title>
+<title> BT SPORTS 1[COLOR lime]to test[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.227:3001</link>
 <thumbnail></thumbnail>
 </item>
