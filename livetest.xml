@@ -110,41 +110,38 @@ TEST ONLY
 <thumbnail></thumbnail>
 </item>
 
-
-
 <item>
 <title>BEIN11 [COLOR lime]WORKS [/COLOR]  </title>
-<link>http://185.9.3.2:4048/udp/239.193.48.1:3301</link>     #WHEN YOU FIND CONTENT, MAKE ABSOLUTELY SURE YOU FIND THE DOWNLOAD LINK AND SHORTURL IT.  It should work.#
+<link>http://185.9.3.2:4048/udp/239.193.48.1:3301</link> 
 <thumbnail></thumbnail>
 </item>
 
-
 <item>
-<title> TEST [COLOR lime]to test[/COLOR]  </title>
+<title> TEST 1 [COLOR lime]to test[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.87:3001</link>
-<thumbnail>http://www.tvservices.ie/images/logo-rte1.gif</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title> TEST [COLOR lime]to test[/COLOR]  </title>
+<title> TEST 2 [COLOR lime]to test[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.86:3001</link>
-<thumbnail>http://www.tvservices.ie/images/logo-rte1.gif</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title> TEST [COLOR lime]to test[/COLOR]  </title>
+<title> TEST 3[COLOR lime]to test[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.85:3001</link>
-<thumbnail>http://www.tvservices.ie/images/logo-rte1.gif</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title> TEST [COLOR lime]to test[/COLOR]  </title>
+<title> TEST 4[COLOR lime]to test[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.88:3001</link>
-<thumbnail>http://www.tvservices.ie/images/logo-rte1.gif</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title> TEST [COLOR lime]to test[/COLOR]  </title>
+<title> TEST 5[COLOR lime]to test[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.89:3001</link>
-<thumbnail>http://www.tvservices.ie/images/logo-rte1.gif</thumbnail>
+<thumbnail></thumbnail>
 </item>
