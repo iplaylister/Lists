@@ -1,10 +1,4 @@
 <item>
-<title> RTE 1 [COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.88:3001</link>
-<thumbnail>http://www.tvservices.ie/images/logo-rte1.gif</thumbnail>
-</item>
-
-<item>
 <title> BBC 1 London?[COLOR lime]to test[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.82:3001</link>
 <thumbnail></thumbnail>
