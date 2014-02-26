@@ -117,31 +117,109 @@ TEST ONLY
 </item>
 
 <item>
-<title> TEST 1 [COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.87:3001</link>
+<title> Channel test 78 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.78:3001</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title> TEST 2 [COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.86:3001</link>
+<title> Channel test 79 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.79:3001</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title> TEST 3[COLOR lime]to test[/COLOR]  </title>
+<title> Channel test 0 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.80:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel test 1 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.81:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel test 2 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.82:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel test 3 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.83:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel test 4 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.84:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Film4[COLOR lime]channel?[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.85:3001</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title> TEST 4[COLOR lime]to test[/COLOR]  </title>
+<title> Channel 4 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.86:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel 5 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.87:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> RTE 1[COLOR lime]to test[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.88:3001</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title> TEST 5[COLOR lime]to test[/COLOR]  </title>
+<title> RTE 2[COLOR lime]to test[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.89:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 90[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.90:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 91[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.91:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 92[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.92:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 93[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.93:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 94[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.94:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel Test 95[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.95:3001</link>
 <thumbnail></thumbnail>
 </item>
