@@ -1,0 +1,199 @@
+TEST ONLY 
+
+<item>
+<title> ITV [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.79:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> ITV2 [COLOR lime]NOT SURE OF CHANNEL[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.80:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> ITV4 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.81:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> ITV3 [COLOR lime]NOT SURE OF CHANNEL +1?[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.82:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Film4 +1 [COLOR lime]NOT SURE [/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.83:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> ITV3 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.84:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Film4[COLOR lime]channel?[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.85:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel 4 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.86:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Channel 5 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.87:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> RTE 1[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.88:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> RTE 2[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.89:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Other Irish Channel 1[COLOR lime]Not sure[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.90:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> RTE 3[COLOR lime]not sure[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.91:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Irish Kids TV [COLOR lime]Not Sure[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.92:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> RTE3 Entertainment[COLOR lime][/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.93:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> CNBC [COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.94:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 1[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.25:3301</link>
+<thumbnail>http://2.bp.blogspot.com/-oqxpMj-7SX4/UfZ4Dt0P1DI/AAAAAAAAGHg/_-b5nKqdkeE/s320/bein-sport-1.png</thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 2[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.24:3301</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 3[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.23:3301</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 4[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.22:3301</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 5[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.7:3301</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 6[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.8:3301</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 7[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.9:3301</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 8[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.10:3301</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 9 [COLOR red]HD[/COLOR][COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.11:3301</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 10[COLOR red]HD[/COLOR][COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.12:3301</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 11[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.1:3301</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 12[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.2:3301 </link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 13[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.3:3301</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 14[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.4:3301 </link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports 15[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.5:3301</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>beIN Sports HD[COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.6:3301</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BEIN11 [COLOR lime]WORKS [/COLOR]  </title>
+<link>http://185.9.3.2:4048/udp/239.193.48.1:3301</link> 
+<thumbnail></thumbnail>
+</item>
