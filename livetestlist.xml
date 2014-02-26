@@ -1,6 +1,36 @@
+##########################################################################################################
+												
+##########################################################################################################
+										
+##########################################################################################################
+
+#START#
+#TITLE+BACKGROUND#
+<poster></poster>
+<thumbnail></thumbnail>
+<fanart>http://hd4desktop.com/images/b/1920x1080_tvhead-tv-head-abstract-artwork-HD-Wallpaper.jpg</fanart>
+
 <item>
-<title> BBC 1 London?[COLOR lime]to test[/COLOR]  </title>
+<title> BBC 1 London[COLOR lime][/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.82:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> BBC Two England </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.83:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC Three</title>
+<link>http://212.250.46.41:9987/udp/239.100.0.140:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC 4 [COLOR lime][/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.92:3001</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -17,32 +47,14 @@
 </item>
 
 <item>
-<title> ITV4 [COLOR lime]working[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.81:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title> ITV3 [COLOR lime]NOT SURE OF CHANNEL +1?[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.82:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Film4 +1 [COLOR lime]NOT SURE [/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.83:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> ITV3 [COLOR lime]working[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.84:3001</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title> Film4[COLOR lime]channel?[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.85:3001</link>
+<title> ITV4 [COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.81:3001</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -53,43 +65,106 @@
 </item>
 
 <item>
+<title>E4  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.137:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>More 4</title>
+<link>http://212.250.46.41:9987/udp/239.100.0.141:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Film4[COLOR lime]channel?[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.85:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title> Channel 5 [COLOR lime]working[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.87:3001</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title> RTE 1[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.88:3001</link>
+<title>Sky Atlantic  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.176:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<title>Comedy Central </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.146:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<title>UK Gold</title>
+<link>http://212.250.46.41:9987/udp/239.100.0.147:3001</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title> RTE 2[COLOR lime]to test[/COLOR]  </title>
+<title>Sky One [COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.119:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>National Geographic Channel[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.127:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Nat Geo Wild [COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.128:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>History [COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.129:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky 2</title>
+<link>http://212.250.46.41:9987/udp/239.100.0.136:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky News</title>
+<link>http://212.250.46.41:9987/udp/239.100.0.134:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> RTE 1 [COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.88:3001</link>
+<thumbnail>http://www.tvservices.ie/images/logo-rte1.gif</thumbnail>
+</item>
+
+<item>
+<title> RTE 2[COLOR lime][/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.89:3001</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title> Other Irish Channel 1[COLOR lime]Not sure[/COLOR]  </title>
+<title> TG4 Ireland [COLOR lime][/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.90:3001</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title> RTE 3[COLOR lime]not sure[/COLOR]  </title>
+<title> TG3[COLOR lime][/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.91:3001</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title> Irish Kids TV [COLOR lime]Not Sure[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.92:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> RTE3 Entertainment[COLOR lime][/COLOR]  </title>
+<title> 3e Entertainment[COLOR lime][/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.93:3001</link>
 <thumbnail></thumbnail>
 </item>
@@ -101,26 +176,71 @@
 </item>
 
 <item>
-<title> BT SPORTS 1[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.227:3001</link>
+<title>Sky Sports 1[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.111:3001</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title> BT SPORTS 2[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.228:3001</link>
+<title>Eurosport 2 UK [COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.117:3001</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Box Nation[COLOR lime]not sure of channel[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.229:3001</link>
+<title>British Eurosport[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.118:3001</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title> ITV 1 [COLOR lime]DOES NOT WORK[/COLOR]  </title>
-<link>http://212.250.46.44:8085/udp/239.100.0.79:3301</link>
+<title>At The Races[COLOR lime]working[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.130:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ESPN</title>
+<link>http://212.250.46.41:9987/udp/239.100.0.131:3001 </link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.135:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3</title>
+<link>http://212.250.46.41:9987/udp/239.100.0.142:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1</title>
+<link>http://212.250.46.41:9987/udp/239.100.0.143:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Sky Sports 4 </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.144:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<title> Sky Sports News </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.145:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<title> Setanta Ireland </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.149:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<title>Premier Sports</title>
+<link>http://212.250.46.41:9987/udp/239.100.0.183:3001 </link>
 <thumbnail></thumbnail>
 </item>
 
@@ -226,116 +346,8 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title> Channel test 35 [COLOR lime]working[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.35:3001</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title> Channel Test 40[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.40:3001</link>
+<title> </title>
+<link></link>
 <thumbnail></thumbnail>
 </item>
-<item>
-
-<item>
-<title> Channel Test 65[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.65:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<title> Channel Test 60[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.60:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 100[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.100:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 101[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.101:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 105[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.105:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 110[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.110:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 219[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.219:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 220[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.220:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 221[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.221:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 222[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.222:3001</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title> Channel Test 223[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.223:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 224[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.224:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 225[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.225:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 226[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.226:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 237[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.237:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 247[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.247:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> Channel Test 257[COLOR lime]to test[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.257:3001</link>
-<thumbnail></thumbnail>
-</item>
-
