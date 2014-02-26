@@ -86,10 +86,9 @@
 <link>http://navixtreme.com/playlist/update.plx</link>
 <thumbnail></thumbnail>
 
-<name>live-tv-stream</name>
-<link>http://live-tv-stream.googlecode.com/svn/trunk/LiveTV.xml</link>
+<name>TVTests</name>
+<link>https://raw.github.com/iplaylister/Lists/master/TVTests.xml</link>
 <thumbnail></thumbnail>
-
 
 
 <name>LIVE TV TESTS</name>
@@ -101,7 +100,7 @@
 <thumbnail></thumbnail>
 
 
-v
+
 
 #######################################################################################################################################
 #<info>
