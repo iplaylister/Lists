@@ -1,14 +1,6 @@
-TEST ONLY 
-
 <item>
-<title> BBC1 [COLOR lime]Working[/COLOR]  </title>
+<title> BBC 1 London?[COLOR lime]to test[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.82:3001</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title> BBC 2 [COLOR lime]NOT SURE OF CHANNEL[/COLOR]  </title>
-<link>http://212.250.46.41:9987/udp/239.100.0.83:3001</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -30,6 +22,17 @@ TEST ONLY
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title> ITV3 [COLOR lime]NOT SURE OF CHANNEL +1?[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.82:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> Film4 +1 [COLOR lime]NOT SURE [/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.83:3001</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title> ITV3 [COLOR lime]working[/COLOR]  </title>
@@ -94,6 +97,24 @@ TEST ONLY
 <item>
 <title> CNBC [COLOR lime]to test[/COLOR]  </title>
 <link>http://212.250.46.41:9987/udp/239.100.0.94:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> BT SPORTS 1[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.227:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title> BT SPORTS 2[COLOR lime]to test[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.228:3001</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Box Nation[COLOR lime]not sure of channel[/COLOR]  </title>
+<link>http://212.250.46.41:9987/udp/239.100.0.229:3001</link>
 <thumbnail></thumbnail>
 </item>
 
