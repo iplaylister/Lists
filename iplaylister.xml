@@ -3,10 +3,6 @@
 <fanart>http://farm6.staticflickr.com/5460/10217454264_7eda59c6f3_o.png</fanart>
 #######################################################################################################################################
 
-<name>TV Channels</name>
-<link>https://raw.github.com/iplaylister/Lists/master/TVTests.xml</link>
-<thumbnail></thumbnail>
-
 <name>HackerMil</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Directory/HackerMil_Directory.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/hackermilx-2_zps951b20f8.png</thumbnail>
@@ -35,7 +31,6 @@
 <link>https://raw2.github.com/mash2k3/One242415/master/Movies/imdb300.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/k7RE1G2hbg/imdb.png</thumbnail>
 
-
 <name>TNPB</name>
 <link>https://raw.github.com/mash2k3/MashUpTNPB/master/TNPB_Directory.xml</link>
 <thumbnail>http://s20.postimg.org/jvq2l8xel/TNPB.png</thumbnail>
@@ -48,7 +43,6 @@
 <link>https://raw.github.com/mash2k3/MashUpMorePower/master/MorePower_Directory.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/u/35068738/icons/morepower.png</thumbnail>
 
-
 <name>MorePower - Newest and Hottest Movie List</name>
 <link>https://github.com/mash2k3/MashUpMorePower/raw/master/MainMovieList.xml</link>
 <thumbnail></thumbnail>
@@ -56,7 +50,6 @@
 <name>Staael 1982</name>
 <link>https://raw.github.com/mash2k3/Staael1982/master/Staael_Directory.xml</link>
 <thumbnail>https://dl.dropboxusercontent.com/u/35068738/icons/staael.png</thumbnail>
-
 
 <name>Staael 1982 New releases</name>
 <link>https://raw.github.com/mash2k3/Staael1982/master/Latest%20releases.xml</link>
@@ -70,6 +63,9 @@
 <link>https://raw.github.com/mash2k3/demon88/master/Demon88_Directory.xml</link>
 <thumbnail>demon88</thumbnail>
 
+<name>Crusaders Directory</name>
+<link>https://raw.github.com/mash2k3/MashUpStreams/master/CrusadersDir.xml</link>
+<thumbnail>demon88</thumbnail>
 
 <name>mefroxlist</name>
 <link>https://raw.github.com/mefrox/mefroxlist/master/mefroxlist.xml</link>
@@ -80,7 +76,6 @@
 <name>LIVE STREAMS -Iplaylister</name>
 <link>https://raw.github.com/iplaylister/Lists/master/live.xml</link>
 
-
 <name>Navi-X's Most Visited 24hrs [COLOR FF00FF00](NOW SUPPORTED!)[/COLOR]</name>
 <link>http://navixtreme.com/playlist/day.plx</link>
 <thumbnail></thumbnail>
@@ -89,14 +84,35 @@
 <link>http://navixtreme.com/playlist/update.plx</link>
 <thumbnail></thumbnail>
 
+<name>MashSports</name>
+<link>https://raw.github.com/mash2k3/MashSports/master/Mashsprt.xml</link>
+<thumbnail></thumbnail>
 
 <name>TV TEST LIST</name>
 <link>https://raw.github.com/iplaylister/Lists/master/livetestlist.xml</link>
 <thumbnail></thumbnail>
 
+<name>Mashup Live TV Directory</name>
+<link>https://raw.github.com/mash2k3/MashUpNotifications/master/LiveDirectory(mash2k3Only).xml</link>
+<thumbnail></thumbnail>
+
+<name>HD Movies from Mashup</name>
+<link>https://github.com/mash2k3/MashUpNotifications/blob/master/Directories/HD_Directory.xml</link>
+<thumbnail></thumbnail>
+
 <name></name>
 <link></link>
 <thumbnail></thumbnail>
+
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+
+
 
 #######################################################################################################################################
 #<info>
