@@ -1,1 +1,20 @@
-Gone
+<name>BT2</name>
+<link>rtmp://$OPT:rtmp-raw=rtmp://37.220.32.50:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream1.html token=#atd%#$ZH</link>
+<thumbnail></thumbnail>
+
+<name>BT1</name>
+<link>rtmp://$OPT:rtmp-raw=rtmp://37.220.34.18:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/stream1.html token=#atd%#$ZH</link>
+<thumbnail></thumbnail>
+
+<name>random sport</name>
+<link>rtmp://$OPT:rtmp-raw=rtmp://37.220.36.64:443/liverepeater playpath=13903 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream2.html token=#atd%#$ZH</link>
+<thumbnail></thumbnail>
+
+<name>Sport 1</name>
+<link>rtmp://$OPT:rtmp-raw=rtmp://37.220.32.55:443/liverepeater playpath=20724 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream1.html token=#atd%#$ZH</link>
+<thumbnail></thumbnail>
+
+<name>Sport Mix</name>
+<link>rtmp://$OPT:rtmp-raw=rtmp://46.246.29.140:1935/stream// playpath=fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=dircttv </link>
+<thumbnail></thumbnail>
+
