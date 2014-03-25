@@ -1,31 +1,36 @@
-<name>PARIS PREMIERE HD</name>
-<link>http://62.35.48.124:8001/1:0:19:2347:442:1:C00000:0:0:0:</link>
+
+<name>Jim Jam</name>
+<link>http://202.75.23.37:8800/live/ch17/01.m3u8</link>
 <thumbnail></thumbnail>
 
-<name>CANAL + SPORT HD</name>
-<link>http://62.35.48.124:8001/1:0:19:2278:438:1:C00000:0:0:0:</link>
+<name>Nat geo wild</name>
+<link>http://202.75.23.35:8800/live/ch39/01.m3u8</link>
 <thumbnail></thumbnail>
 
-<name>BT1</name>
-<link>http://62.35.48.124:8001/1:0:19:2347:442:1:C00000:0:0:0:</link>
+<name>BBC</name>
+<link>http://202.75.23.33:8800/live/ch28/01.m3u8</link>
 <thumbnail></thumbnail>
 
-<name>EURO SPORT 2 HD</name>
-<link>http://62.35.48.124:8001/1:0:19:24BE:43C:1:C00000:0:0:0:</link>
+<name>Eurosport</name>
+<link>http://91.218.128.34:1234/udp/224.1.1.25:1234</link>
 <thumbnail></thumbnail>
 
-<name>PLANETE + HD</name>
-<link>http://62.35.48.124:8001/1:0:19:2347:442:1:C00000:0:0:0:</link>
+<name>Eurosport 2</name>
+<link>http://91.218.128.34:1234/udp/224.1.1.26:1234</link>
 <thumbnail></thumbnail>
 
-<name>NATIONAL GEO HD</name>
-<link>http://62.35.48.124:8001/1:0:19:233F:442:1:C00000:0:0:0:</link>
+<name>Discovery</name>
+<link>http://202.75.23.34:8800/live/ch29/01.m3u8</link>
 <thumbnail></thumbnail>
 
-<name>NATIONAL GEO WILD HD</name>
-<link>http://62.35.48.124:8001/1:0:19:1987:44E:1:C00000:0:0:0:</link>
+<name>Bein sports1</name>
+<link>http://202.75.23.37:8800/live/ch18/01.m3u8</link>
 <thumbnail></thumbnail>
 
-<name></name>
-<link></link>
+<name>Bein sports2</name>
+<link>http://202.75.23.37:8800/live/ch19/01.m3u8</link>
+<thumbnail></thumbnail>
+
+<name>Eurosport</name>
+<link>http://202.75.23.37:8800/live/ch21/01.m3u8</link>
 <thumbnail></thumbnail>
