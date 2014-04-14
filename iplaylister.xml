@@ -70,6 +70,9 @@
 <name>Xunity Playlist Dir</name>
 <link>http://is.gd/xunitytalk</link>
 
+<name>Xunity 3rd Party Playlist Dir</name>
+<link>https://raw.githubusercontent.com/mefrox/xunitytalks_playlist/master/XMLs/third-parties.xml</link>
+
 <name>LIVE STREAMS -Iplaylister</name>
 <link>https://raw.github.com/iplaylister/Lists/master/live.xml</link>
 
