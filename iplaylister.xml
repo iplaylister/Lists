@@ -67,11 +67,19 @@
 <link>https://raw.github.com/mash2k3/MashUpStreams/master/CrusadersDir.xml</link>
 <thumbnail>demon88</thumbnail>
 
+<name>K1M05</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05_mashupDirectory.xml</link>
+<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
+
 <name>Xunity Playlist Dir</name>
 <link>http://is.gd/xunitytalk</link>
 
 <name>Xunity 3rd Party Playlist Dir</name>
 <link>https://raw.githubusercontent.com/mefrox/xunitytalks_playlist/master/XMLs/third-parties.xml</link>
+
+<name>Gioroo's Live TV from Xunity - (Choose XML as Playlist Type)</name>
+<link>http://gioroo-tv.googlecode.com/svn/trunk/gioroosport-april.xml</link>
+<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
 
 <name>LIVE STREAMS -Iplaylister</name>
 <link>https://raw.github.com/iplaylister/Lists/master/live.xml</link>
