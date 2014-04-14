@@ -1,36 +1,226 @@
+<item>
+<title>[COLOR=FF0084ff]BT[/COLOR] [COLOR=FFFFFF00]Sports[/COLOR] [COLOR=FFFF0000]1[/COLOR]</title>
+<link>rtmpe://89.46.102.70:443/liveedge playpath=bt1 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
+<thumbnail>http://static.trustedreviews.com/94/0000286fc/7300/BT-Sport.jpg</thumbnail>
+</item>
 
-<name>Jim Jam</name>
-<link>http://202.75.23.37:8800/live/ch17/01.m3u8</link>
-<thumbnail></thumbnail>
+<item>
+<title>[COLOR=FF0084ff]Sky[/COLOR] [COLOR=FFFFFF00]Sports[/COLOR] [COLOR=FFFF0000]1[/COLOR]</title>
+<link>rtmpe://89.46.102.70:443/liveedge playpath=newsky1 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
+<thumbnail>http://aidymp.weebly.com/uploads/1/8/2/8/18284985/1395970073.jpg</thumbnail>
+</item>
 
-<name>Nat geo wild</name>
-<link>http://202.75.23.35:8800/live/ch39/01.m3u8</link>
-<thumbnail></thumbnail>
+<item>
+<title>[COLOR=FF0084ff]Sky[/COLOR] [COLOR=FFFFFF00]Sports[/COLOR] [COLOR=FFFF0000]2[/COLOR]</title>
+<link>rtmpe://89.46.102.70:443/liveedge playpath=sky2 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
+<thumbnail>http://aidymp.weebly.com/uploads/1/8/2/8/18284985/1395970073.jpg</thumbnail>
+</item>
 
-<name>BBC</name>
-<link>http://202.75.23.33:8800/live/ch28/01.m3u8</link>
-<thumbnail></thumbnail>
+<item>
+<title>[COLOR=FF0084ff]Sky[/COLOR] [COLOR=FFFFFF00]Sports[/COLOR] [COLOR=FFFF0000]3[/COLOR]</title>
+<link>rtmpe://89.46.102.70:443/liveedge playpath=newsky3 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
+<thumbnail>http://aidymp.weebly.com/uploads/1/8/2/8/18284985/1395970073.jpg</thumbnail>
+</item>
 
-<name>Eurosport</name>
-<link>http://91.218.128.34:1234/udp/224.1.1.25:1234</link>
-<thumbnail></thumbnail>
+<item>
+<title>[COLOR=FF0084ff]Sky[/COLOR] [COLOR=FFFFFF00]Sports[/COLOR] [COLOR=FFFF0000]4[/COLOR]</title>
+<link>rtmpe://89.46.102.70:443/liveedge playpath=sky4 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
+<thumbnail>http://aidymp.weebly.com/uploads/1/8/2/8/18284985/1395970073.jpg</thumbnail>
+</item>
 
-<name>Eurosport 2</name>
-<link>http://91.218.128.34:1234/udp/224.1.1.26:1234</link>
-<thumbnail></thumbnail>
+<item>
+<title>[COLOR=FF0084ff]Sky[/COLOR] [COLOR=FFFFFF00]Sports[/COLOR] [COLOR=FFFF0000]F1[/COLOR]</title>
+<link>rtmpe://89.46.102.70:443/liveedge playpath=skyf1 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
+<thumbnail>http://aidymp.weebly.com/uploads/1/8/2/8/18284985/1395970073.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR=FF0084ff]Sky[/COLOR] [COLOR=FFFFFF00]Sports[/COLOR] [COLOR=FFFF0000]News[/COLOR]</title>
+<link>rtmpe://89.46.102.70:443/liveedge playpath=sky_news swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
+<thumbnail>http://aidymp.weebly.com/uploads/1/8/2/8/18284985/1395970073.jpg</thumbnail>
+</item>
 
-<name>Discovery</name>
-<link>http://202.75.23.34:8800/live/ch29/01.m3u8</link>
-<thumbnail></thumbnail>
+<item>
+<title>[COLOR=FF0084ff][/COLOR] [COLOR=FFFFFF00]Racing[/COLOR] [COLOR=FFFF0000]Uk[/COLOR]</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder1/coder.channels.channel8/hls/3/playlist.m3u8</link>
+<thumbnail>http://substantialfilms.co.uk/wp-content/uploads/2012/12/racing.uk_.logo_.jpg</thumbnail>
+</item>
 
-<name>Bein sports1</name>
-<link>http://202.75.23.37:8800/live/ch18/01.m3u8</link>
-<thumbnail></thumbnail>
+<item>
+<title>[COLOR=FF0084ff]At[/COLOR] [COLOR=FFFFFF00]the[/COLOR] [COLOR=FFFF0000]races[/COLOR]</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8</link>
+<thumbnail>http://www.brighton-racecourse.co.uk/_images/racinghome/ATR-logo.jpg</thumbnail>
+</item>
 
-<name>Bein sports2</name>
-<link>http://202.75.23.37:8800/live/ch19/01.m3u8</link>
-<thumbnail></thumbnail>
+<item>
+<title>[COLOR=FF0084ff]FIGHT[/COLOR] [COLOR=FFFFFF00]Box[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://spi-live.ercdn.net/spi/smil:fightboxhd_0.smil/bayash.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fight_box_hd.png</thumbnail>
+</item>
 
-<name>Eurosport</name>
-<link>http://202.75.23.37:8800/live/ch21/01.m3u8</link>
-<thumbnail></thumbnail>
+
+<item>
+<title>[COLOR=FF0084ff]Chelsea[/COLOR] [COLOR=FFFFFF00]TV[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291 </link>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__Images/TV/StandaloneChannels/ChelseaTV_354x170.jpg_2142020268.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FF9370DB]Euro[/COLOR] [COLOR=FFFFFF00]Sport[/COLOR] [COLOR=FFFF0000]1[/COLOR]</title>
+<link>http://hls.novotelecom.ru/streaming/eurosport/tvrec/playlist.m3u8?</link>
+<thumbnail>http://identitydesigned.com/images/eurosport/eurosport-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FF9370DB]Euro[/COLOR] [COLOR=FFFFFF00]Sport[/COLOR] [COLOR=FFFF0000]2[/COLOR]</title>
+<link>http://hls.novotelecom.ru/streaming/eurosport2/tvrec/playlist.m3u8?</link>
+<thumbnail>http://i49.tinypic.com/2ym6mf6.jpg</thumbnail>
+</item>
+
+<title>MTV HITS</title>
+<link>http://tv.goweb.com/share/channels/channel/id/445/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398</link>
+<thumbnail>http://4.bp.blogspot.com/-4PJ9BEE1sC4/TzluZ3rKâ€“I/AAAAAAAAGRw/0Hz42OV8Za4/s320/Best+Of+MTV+Hits+2012.jpg</thumbnail>
+</item
+<item>
+<title>MTV ROCKS</title>
+<link>http://tv.goweb.com/share/channels/channel/id/446/sign/18dc548a05abb23b014800dac36ac4a16a63fbb7/base/41398</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</thumbnail>
+</item
+<item>
+<title>USA NETWORK</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=usanet1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=usanet1569&vw=600&vh=430</link>
+<thumbnail>http://kgervaise.files.wordpress.com/2012/09/usa-network-logo-1.jpg</thumbnail>
+</item
+<item>
+<title>BRAVO</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=bravo1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=bravo1569&vw=600&vh=430</link>
+<thumbnail>http://www-deadline-com.vimg.net/wp-content/uploads/2011/08/Bravo_logo_20110815164454-275Ã—202.jpg</thumbnail>
+</item
+<item>
+<title>HBO</title>
+<link>rtmp://50.7.137.90/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve</link>
+<thumbnail>http://img.talkandroid.com/uploads/2013/07/HBO_Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>SYFY</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=syfy1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=syfy1569&vw=600&vh=430 </link>
+<thumbnail>http://www.wired.com/images_blogs/underwire/2012/08/syfy_Logo-thumb-550Ã—400-14765.jpg</thumbnail>
+</item>
+
+<item>
+<title>TNT</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=tnt1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=tnt1569&vw=600&vh=430</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20091120155408/logopedia/images/4/41/TNT_logo_2008.png</thumbnail>
+</item>
+
+<item>
+<title>BBC ONE</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder8/coder.channels.channel2/hls/1/playlist.m3u8</link>
+<thumbnail>http://www.bbc.co.uk/pressoffice/pressreleases/stories/2010/06_june/18/img/448_bbcone.jpg</thumbnail>
+</item>
+<item>
+<title>BBC TWO</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder8/coder.channels.channel8/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.thisisfive.co.uk/presbits/bbc/two/2004/logo03.jpg</thumbnail>
+</item>
+<item>
+<title>ITV 1</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder8/coder.channels.channel12/hls/3/playlist.m3u8</link>
+<thumbnail>http://i2.cdnds.net/12/46/618Ã—314/media_new_itv_logo.jpg</thumbnail>
+</item>
+<item>
+<title>CHANNEL 4</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder8/coder.channels.channel10/hls/3/playlist.m3u8</link>
+<thumbnail>http://flowtv.org/wp-content/uploads/2009/03/c4logo440.png</thumbnail>
+</item
+<item>
+<title>CHANNEL 5</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder8/coder.channels.channel6/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.logoguru.co.uk/blog/wp-content/uploads/2011/03/channel-5-before.png</thumbnail>
+</item
+<item>
+<title>CBEEBIES</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder8/coder.channels.channel14/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.schooljotter.com/imagefolders/dafen/cbeebies_logo_400.jpg</thumbnail>
+</item
+<item>
+<title>CBBC</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.woapa.co.uk/upload/U584063_cbbc_logo.jpg</thumbnail>
+</item
+<item>
+<title>BBC ALBA</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder2/coder.channels.channel2/hls/2/playlist.m3u8</link>
+<thumbnail>http://www.thedrum.com/uploads/drum_basic_article/94080/main_images/bbc-alba.jpg</thumbnail>
+</item
+<item>
+<title>BBC NEWS</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder7/coder.channels.channel17/hls/3/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/200px-BBC_News.svg.png</thumbnail>
+</item
+<item>
+<title>KISS</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder2/coder.channels.channel13/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.weareseventeen.com/up/projects/487/942882502.jpg</thumbnail>
+</item
+<item>
+<title>KERRANG</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder2/coder.channels.channel16/hls/3/playlist.m3u8</link>
+<thumbnail>http://images.contactmusic.com/img/old/kerrang1x08x05x03.gif</thumbnail>
+</item
+<item>
+<title>FRANCE 24</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder7/coder.channels.channel14/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.cbnews.fr/var/media/99/original/france24-resize-98020.jpg</thumbnail>
+</item
+<item>
+<title>SMASH HITS</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder1/coder.channels.channel14/hls/4/playlist.m3u8</link>
+<thumbnail>http://www.mediauk.com/logos/100/41566.png</thumbnail>
+</item>
+<item>
+<title>THE BOX</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder2/coder.channels.channel10/hls/4/playlist.m3u8</link>
+<thumbnail>http://www.ohwrd.com/wp-content/uploads/2009/08/thebox.jpg</thumbnail>
+</item>
+<item>
+<title>HEAT</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder2/coder.channels.channel4/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.heatworld.com/images/109957_615x10000_STD/2012/6/heat_logo_x.jpg</thumbnail>
+</item>
+<item>
+<title>CAPITAL TV</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder7/coder.channels.channel8/hls/3/playlist.m3u8</link>
+<thumbnail>https://www.musicweek.com/cimages/19a2560129307a46a177a8c16bd412b9.jpg</thumbnail>
+</item>
+<item>
+<title>CLUBLAND</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder5/coder.channels.channel14/hls/3/playlist.m3u8</link>
+<thumbnail>http://i2.bebo.com/042/7/mediuml/2008/03/21/11/647921526a7208306229ml.jpg</thumbnail>
+</item>
+<item>
+<title>PLANET POP</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder5/coder.channels.channel17/hls/3/playlist.m3u8</link>
+<thumbnail>http://hub.tv-ark.org.uk/images/music/music_images/planet_pop_2000a.jpg</thumbnail>
+</item>
+<item>
+<title>AKA</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder6/coder.channels.channel2/hls/3/playlist.m3u8</link>
+<thumbnail>http://pbs.twimg.com/profile_images/378800000438149610/96fe763222ddc27a5f01dc34ee550485.jpeg</thumbnail>
+</item>
+<item>
+<title>NOW THATS WHAT I CALL MUSIC</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder6/coder.channels.channel5/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.thevalueengineers.com/wp-content/uploads/2013/07/now-thats-what-i-call-music-1.jpg</thumbnail>
+</item>
+<item>
+<title>4 MUSIC</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder1/coder.channels.channel11/hls/4/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/_7UXGRIBLGTU/SlYD88sOOYI/AAAAAAAAAds/Gpzci5otMdM/s320/08141950300_4music_logo.jpg</thumbnail>
+</item
+<item>
+<title>HEART</title>
+<link>http://cdn.live.tvplayer.simplestream.com/coder7/coder.channels.channel10/hls/3/playlist.m3u8</link>
+<thumbnail>http://www.jumpdesign.co.uk/assets/templates/jump/videos/placeholder/heart_2.jpg</thumbnail>
+</item>
+<item>
