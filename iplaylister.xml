@@ -3,6 +3,66 @@
 <fanart>http://farm6.staticflickr.com/5460/10217454264_7eda59c6f3_o.png</fanart>
 #######################################################################################################################################
 
+<name>TNPB from Pheonix</name>
+<link>http://zenica.watchkodi.com/maindir/main.xml</link>
+<thumbnail></thumbnail>
+
+<dir><name>TNPB New Releases</name>
+<link>http://zenica.watchkodi.com/Genre/New-Releases/New%20Releases%20Directory.xml</link>
+<thumbnail>http://s20.postimg.org/gusi53acd/New_Releases_Thumbnail.jpg</thumbnail></dir>
+
+<dir><name>TNPB Latest Cinema Releases</name>
+<link>http://zenica.watchkodi.com/Genre/LatestCinema.xml</link>
+<thumbnail>http://s20.postimg.org/a21h4vbtp/Latest_Cinema.jpg</thumbnail></dir>
+
+<dir><name>TNPB Hot 30</name>
+<link>http://zenica.watchkodi.com/Genre/top30.xml</link>
+<thumbnail>http://s20.postimg.org/mhehb3x99/Hot_30.png</thumbnail></dir>
+
+<name>Staael2014 Pheonix</name>
+<link>http://tuzla.watchkodi.com/Staael%20Main%20Directory.xml</link>
+<thumbnail></thumbnail>
+
+<name>Staael2014 2014 HD movies</name>
+<link>http://tuzla.watchkodi.com/2014%20HD.xml</link>
+<thumbnail>http://i.imgur.com/REzDL67.jpg</thumbnail>
+
+<name>One242415 Pheonix</name>
+<link>http://gibraltar.watchkodi.com/Directory.xml</link>
+<thumbnail></thumbnail>
+
+<name>Latest Releases</name>
+<link>ftp://phosp6@watchkodi.com@194.28.173.9/Movies/LatestRelease.xml</link>
+<thumbnail>http://s7.postimg.org/5paz1nlqj/skull256x256.jpg</thumbnail>
+
+<name>LGBT FILMS</name>
+<link>ftp://phosp6@watchkodi.com@194.28.173.9/Movies/Lfilms.xml</link>
+<thumbnail>http://s25.postimg.org/gf86jdydb/les.jpg</thumbnail>
+
+
+<name>Xunity Playlist Dir</name>
+<link>http://is.gd/xunitytalk</link>
+
+<name>Xunity 3rd Party Playlist Dir</name>
+<link>https://raw.githubusercontent.com/mefrox/xunitytalks_playlist/master/XMLs/third-parties.xml</link>
+
+<name>Gioroo's Live TV from Xunity - (Choose XML as Playlist Type)</name>
+<link>http://gioroo-tv.googlecode.com/svn/trunk/gioroosport-april.xml</link>
+<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
+
+<name>LIVE STREAMS -Iplaylister</name>
+<link>https://raw.github.com/iplaylister/Lists/master/live.xml</link>
+
+<name>Navi-X's Most Visited 24hrs [COLOR FF00FF00](NOW SUPPORTED!)[/COLOR]</name>
+<link>http://navixtreme.com/playlist/day.plx</link>
+<thumbnail></thumbnail>
+
+<name>Navi-X's Most Recent Updates [COLOR FF00FF00](NOW SUPPORTED!)[/COLOR]</name>
+<link>http://navixtreme.com/playlist/update.plx</link>
+<thumbnail></thumbnail>
+
+
+------OLD--------
 <name>HackerMil</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Directory/HackerMil_Directory.xml</link>
 <thumbnail>http://i1367.photobucket.com/albums/r795/HackerMil/Icons/hackermilx-2_zps951b20f8.png</thumbnail>
@@ -71,26 +131,7 @@
 <link>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05_mashupDirectory.xml</link>
 <thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
 
-<name>Xunity Playlist Dir</name>
-<link>http://is.gd/xunitytalk</link>
 
-<name>Xunity 3rd Party Playlist Dir</name>
-<link>https://raw.githubusercontent.com/mefrox/xunitytalks_playlist/master/XMLs/third-parties.xml</link>
-
-<name>Gioroo's Live TV from Xunity - (Choose XML as Playlist Type)</name>
-<link>http://gioroo-tv.googlecode.com/svn/trunk/gioroosport-april.xml</link>
-<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
-
-<name>LIVE STREAMS -Iplaylister</name>
-<link>https://raw.github.com/iplaylister/Lists/master/live.xml</link>
-
-<name>Navi-X's Most Visited 24hrs [COLOR FF00FF00](NOW SUPPORTED!)[/COLOR]</name>
-<link>http://navixtreme.com/playlist/day.plx</link>
-<thumbnail></thumbnail>
-
-<name>Navi-X's Most Recent Updates [COLOR FF00FF00](NOW SUPPORTED!)[/COLOR]</name>
-<link>http://navixtreme.com/playlist/update.plx</link>
-<thumbnail></thumbnail>
 
 <name>MashSports</name>
 <link>https://raw.github.com/mash2k3/MashSports/master/Mashsprt.xml</link>
@@ -106,14 +147,6 @@
 
 <name>HD Movies from Mashup</name>
 <link>https://github.com/mash2k3/MashUpNotifications/blob/master/Directories/HD_Directory.xml</link>
-<thumbnail></thumbnail>
-
-<name></name>
-<link></link>
-<thumbnail></thumbnail>
-
-<name></name>
-<link></link>
 <thumbnail></thumbnail>
 
 <name></name>
